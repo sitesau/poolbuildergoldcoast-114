@@ -1,0 +1,22 @@
+{
+  "wheel_id": 840,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-114",
+  "project": "concrete-pool-builder-gold-coast-materials-compared-02efcb3024f",
+  "parent_t1_ref": "poolbuildergoldcoast-156",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast materials compared",
+  "intended_url": "https://aumedia.neocities.org/concrete-pool-builder-gold-coast-materials-compared-02efcb3024f/",
+  "tier": "T2",
+  "writeback_nonce": "2986ae07ad800689",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/poolbuildergoldcoast-156/",
+      "anchor": "the concrete pool builder gold coast quotes explained overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
